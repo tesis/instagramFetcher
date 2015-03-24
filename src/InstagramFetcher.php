@@ -7,7 +7,7 @@
  * @author     Tereza Simcic <tereza.simcic@gmail.com>
  * @copyright  2014-2015 Tesis, Tereza Simcic
  * @license    MIT
- * @link       https://github.com/tesis/login
+ * @link       https://github.com/tesis/instagramFetcher
  *
  */
 
@@ -19,7 +19,6 @@ namespace Tesis\Socials\Instagram;
  * PHP version 5.6
  *
  * @package    Photos
- * @subpackage Login_System
  * @author     Tereza Simcic <tereza.simcic@gmail.com>
  *
  * InstagramFetcher fethces images from Instagram

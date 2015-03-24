@@ -7,7 +7,7 @@
  * @author     Tereza Simcic <tereza.simcic@gmail.com>
  * @copyright  2014-2015 Tesis, Tereza Simcic
  * @license    MIT
- * @link       https://github.com/tesis/login
+ * @link       https://github.com/tesis/instagramFetcher
  *
  */
 
